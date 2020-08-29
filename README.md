@@ -1,0 +1,1 @@
+# Text-extract-from-the-image
